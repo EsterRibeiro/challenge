@@ -1,0 +1,6 @@
+@Lora.Take.API_HostAddress = http://localhost:5124
+
+GET {{Lora.Take.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
