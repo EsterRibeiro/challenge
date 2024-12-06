@@ -6,8 +6,13 @@ Método GET
 Para acessar o endpoint, é necessário criar uma chave do github
 
 Como criar a chave:
--> Vá no seu perfil
--> Clique em Configurações
--> Clique em Configurações do desenvolvedor
--> Em Personal access tokens, clique em Tokens refinados
--> Gerar novo token
+
+  -> Vá no seu perfil
+
+  -> Clique em Configurações
+
+  -> Clique em Configurações do desenvolvedor
+
+  -> Em Personal access tokens, clique em Tokens refinados
+
+  -> Gerar novo token
